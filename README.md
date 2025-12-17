@@ -28,7 +28,7 @@ A console-based **Banking System Simulation** built using **Object-Oriented Prog
 ## 🛠️ Technologies Used
 
 * **Language:** C++
-* **Concepts:** OOP, STL (optional)
+* **Concepts:** OOP
 * **Platform:** Console Application
 
 ---
