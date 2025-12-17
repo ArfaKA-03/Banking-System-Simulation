@@ -11,7 +11,6 @@ A console-based **Banking System Simulation** built using **Object-Oriented Prog
 * Deposit money
 * Withdraw money
 * Check account balance
-* Secure operations using account number / ID
 * Menu-driven interface for easy interaction
 
 ---
