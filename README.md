@@ -52,7 +52,7 @@ Banking-System-Simulation/
 1. Clone the repository
 
    ```bash
-   git clone https://github.com/your-username/Banking-System-Simulation.git
+   git clone https://github.com/ArfaKA-03/Banking-System-Simulation.git
    ```
 
 2. Navigate to the project folder
@@ -89,7 +89,6 @@ Banking-System-Simulation/
 
 ## 🚀 Future Enhancements
 
-* File handling for persistent data storage
 * PIN-based authentication
 * Interest calculation
 * Transaction history
@@ -101,14 +100,6 @@ Banking-System-Simulation/
 
 **Arfa K A**
 Information Science Engineering Student
-GitHub: [arrx-03](https://github.com/arrx-03)
+GitHub: [ArfaKA-03](https://github.com/ArfaKA-03)
 
 ---
-
-## 📜 License
-
-This project is open-source and available for educational purposes.
-
----
-
-⭐ If you like this project, consider giving it a star!
