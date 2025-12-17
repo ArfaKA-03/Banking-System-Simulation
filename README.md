@@ -1,4 +1,3 @@
-# Banking-System-Simulation using oops
 # Banking System Simulation (OOP)
 
 A console-based **Banking System Simulation** built using **Object-Oriented Programming (OOP)** principles. This project demonstrates how real-world banking operations can be modeled using classes, objects, inheritance, encapsulation, and polymorphism.
